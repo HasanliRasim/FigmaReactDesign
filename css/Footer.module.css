@@ -1,0 +1,76 @@
+.div {
+  padding: 40px 6% 0px 6%;
+}
+
+.footer {
+  background-color: #191a23;
+  padding: 40px 5%;
+  border-radius: 40px 40px 0 0;
+}
+.footer_heading {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 45px;
+}
+.footer_heading_ul {
+  display: flex;
+  gap: 40px;
+  align-items: center;
+}
+.footer_heading_ul_list {
+  list-style-type: none;
+}
+.footer_heading_ul_link {
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.footer_heading_icons {
+  display: flex;
+  gap: 30px;
+}
+.footer_description {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 50px;
+  border-bottom: 1px solid white;
+  padding: 0 0 20px 0;
+}
+.footer_description_title {
+  background-color: #b9ff66;
+  border-radius: 4px;
+  padding: 2px;
+}
+.footer_description_text {
+  margin-top: 20px;
+  margin-bottom: 25px;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.footer_description_box {
+  padding: 50px 50px;
+  background-color: #292a32;
+  border-radius: 10px;
+}
+.footer_description_box_input {
+  padding: 12px 25px;
+  border-radius: 10px;
+  border-color: #fff;
+  background-color: #292a32;
+}
+.footer_description_box_button {
+  padding: 14px 25px;
+  margin-left: 20px;
+  cursor: pointer;
+  border-radius: 10px;
+  background-color: #b9ff66;
+  border: none;
+}
+.footer_bottom {
+  display: flex;
+  gap: 40px;
+}
+.footer_bottom_text {
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+}/*# sourceMappingURL=Footer.module.css.map */
