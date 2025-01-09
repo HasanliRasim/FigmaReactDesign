@@ -1,0 +1,25 @@
+.box {
+  display: flex;
+  border-radius: 35px;
+}
+.box_info {
+  padding: 45px;
+}
+.box_info_title {
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 30px;
+}
+.box_info_text {
+  margin-bottom: 30px;
+  width: 45%;
+}
+.box_info_btn {
+  padding: 15px 25px;
+  border-radius: 12px;
+  background-color: #191A23;
+  color: #fff;
+}
+.box .image {
+  width: 70%;
+}/*# sourceMappingURL=Contact.module.css.map */

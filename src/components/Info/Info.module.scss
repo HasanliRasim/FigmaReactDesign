@@ -1,0 +1,16 @@
+.box {
+  padding: 70px 0 40px 0;
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  .text {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #b9ff66;
+    border-radius: 4px;
+    padding: 2px;
+  }
+  .content {
+    width: 35%;
+  }
+}

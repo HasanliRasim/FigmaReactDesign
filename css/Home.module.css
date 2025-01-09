@@ -1,0 +1,46 @@
+.main {
+  padding: 0px 6%;
+}
+.main_section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+.main_section_info_title {
+  font-size: 58px;
+  font-family: "Space Grotesk", sans-serif;
+}
+.main_section_info_text {
+  font-family: "Space Grotesk", sans-serif;
+  margin: 40px 0;
+}
+.main_section_info_button {
+  padding: 15px 25px;
+  cursor: pointer;
+  border-radius: 10px;
+  background-color: #191a23;
+  font-family: "Space Grotesk", sans-serif;
+  color: #fff;
+  border: none;
+}
+.main_cards {
+  display: flex;
+  gap: 40px;
+  justify-content: space-between;
+}
+.main .container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 30px 0 30px 0;
+}
+.main .container_boxes {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  margin-bottom: 40px;
+}
+.main .div {
+  height: 100vh;
+}/*# sourceMappingURL=Home.module.css.map */

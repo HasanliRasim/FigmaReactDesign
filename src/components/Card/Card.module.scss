@@ -1,0 +1,27 @@
+.box {
+  display: flex;
+  padding: 50px 40px;
+  border-radius: 35px;
+  border: 2px solid black;
+  border-bottom: 5px solid black;
+  height: 300px;
+  width: 600px;
+  &_name {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    &_title {
+      font-size: 30px;
+      font-family: Arial, Helvetica, sans-serif;
+      border-radius: 4px;
+      padding: 2px;
+      width: 70%;
+    }
+    &_icon {
+      display: flex;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+  }
+}
